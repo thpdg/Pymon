@@ -45,6 +45,8 @@ def draw_wedge(qx,qy,fg,bg,radius, core_radius):
     print("Drawn")
     pass
 
+# Wrapper to make it easier to work in game wedges
+#  Python 3.10 match statement doesn't appear to be implemented in this version of Micropython
 def draw_quad(quad,lit):
     outer_radius = 14
     inner_radius = 5
