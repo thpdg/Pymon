@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "/Users/patricksweeney/Programming/Pimoroni-Pico-2023-10/micropython/modules_py",
+    ]
+}
